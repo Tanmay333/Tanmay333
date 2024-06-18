@@ -1,6 +1,6 @@
 ![MasterHead](https://t4.ftcdn.net/jpg/04/90/33/39/360_F_490333995_tuuLxYfzpodEZ4LGmoO9zDCk1Y5ZkR1T.jpg)
 <h1 align="center">Hi 👋, I'm Tanmay Kathane</h1>
-<h3 align="center">a passionate Full Stack Developer with a knack for creating robust and scalable web applications.</h3>
+<h3 align="center"> passionate Full Stack Developer with a knack for creating robust and scalable web applications.</h3>
 <img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/privateinvestocat.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmay333&label=Profile%20views&color=0e75b6&style=flat" alt="tanmay333" /> </p>
