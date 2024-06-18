@@ -1,7 +1,7 @@
-![MasterHead](https://t4.ftcdn.net/jpg/04/90/33/39/360_F_490333995_tuuLxYfzpodEZ4LGmoO9zDCk1Y5ZkR1T.jpg)
+[![MasterHead](https://t4.ftcdn.net/jpg/04/90/33/39/360_F_490333979_EQdf0tNa0W7MdstKjrGwnjQjoxfYP2zO.jpg)
 <h1 align="center">Hi 👋, I'm Tanmay Kathane</h1>
-<h3 align="center"> passionate Full Stack Developer with a knack for creating robust and scalable web applications.</h3>
-<img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/privateinvestocat.jpg">
+<h3 align="center"> Passionate Full Stack Developer with a knack for creating robust and scalable web applications.</h3>
+<img align="right" alt="Coding" width="400" src="https://github.blog/wp-content/uploads/2013/04/074d0b06-a5e3-11e2-8b7f-9f09eb2ddfae.jpg?resize=1234%2C701">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmay333&label=Profile%20views&color=0e75b6&style=flat" alt="tanmay333" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **tanmaykathane68@gmail.com**
 
-- ⚡ Fun fact **Avid gamer and tech enthusiast. Love to travel and explore new places.**
+- ⚡ Fun fact **Avid gamer and tech enthusiast <br> & Love to travel and explore new places.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
