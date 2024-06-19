@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 💬 Ask me about **React,JavaScript,Devops**
+- 💬 Ask me about **React,JavaScript,DevOps**
 
 - 📫 How to reach me **tanmaykathane68@gmail.com**
 
