@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **React,JavaScript,DevOps**
 
